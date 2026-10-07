@@ -1,0 +1,13 @@
+{
+  "name": "ai-tools-blog",
+  "version": "1.0.0",
+  "description": "AI Tools & Everyday Productivity Blog",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site ready'"
+  },
+  "keywords": ["ai", "tools", "blog", "productivity"],
+  "author": "",
+  "license": "MIT"
+}
+
